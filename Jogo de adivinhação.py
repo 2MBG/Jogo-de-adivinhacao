@@ -7,7 +7,7 @@ print('\033[33;1mTENTE ADIVINHAR QUAL NÚMERO O COMPUTADOR IRÁ GERAR!\033[m')
 print('-' * 52)
 
 num1 = int(input('\n\033[37;1mDigite um número de 0 a 5: \033[m'))
-num2 = randint(0,5)  # Use uniform para gerar números de ponto flutuante
+num2 = randint(0,5)
 
 print('\n\033[34;1mProcessando...\033[m')
 sleep(1)
