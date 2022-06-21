@@ -1,2 +1,2 @@
 # Jogo-de-adivinhacao-em-Python
-É você contra a máquina!
+Exercício do Curso em Vídeo - Python
