@@ -14,7 +14,7 @@ while num1 < 0 or num1 > 5:
    
 print(end='\n')
 
-print('\033[34;1mProcessando...\033[m')
+print('\033[33;1mProcessando...\033[m')
 sleep(1)
 print(f'\n\033[34;1mJogador:\033[m {num1}')
 print(f'\n\033[35;1mCOMPUTADOR:\033[m {num2}')
